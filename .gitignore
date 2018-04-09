@@ -1,0 +1,6 @@
+# Parcel stuff
+dist/
+.cache/
+
+# Yarn/Node stuff
+node_modules/
